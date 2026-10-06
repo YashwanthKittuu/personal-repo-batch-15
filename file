@@ -1,0 +1,12 @@
+
+
+#!/bin/bash
+echo "Hello, Yash!"
+echo "Current user: $USER"
+echo "Current directory:"
+pwd
+echo "Today's date:"
+date
+echo "Files in directory:"
+ls
+echo "Linux script completed!"
